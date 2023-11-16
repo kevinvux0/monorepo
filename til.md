@@ -28,3 +28,11 @@
     int sum = a * n + (n * (n - 1) * d) / 2;
     printf("%d\n", sum); // 2 + 4 + 6 + 8 + 10 + 12 = 42
     ```
+
+## 2023-11-09
+
+- Be cautious when working with arithmetic operator
+    - Differentiate between `int` and `float` type
+- Ad-hoc problem
+    - Chess board
+    - Dice
